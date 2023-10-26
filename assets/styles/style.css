@@ -1,26 +1,24 @@
-
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin:0px;
   font-size: 18px;
-  padding: 0;
-  border: none;
+  padding: 0px;
 }
 
-header {   
-  font-family: Arial, sans-serif;
+header {
+  font-family: Arial,sans-serif;
   text-align: center;
   padding-top:10px;
   margin-top: 10px;
 }
 
 main {
-  background-color: rgba(236, 235, 235,0.8);
+  background-color: rgba(236,235,235,80%);
   display: block;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  font-family: Arial, sans-serif;
+  font-family: Arial,sans-serif;
 }
 
 figure {
@@ -33,15 +31,15 @@ h2 {
 }
 
 ul {
-  margin: 0 325px;
+  margin: 0px 325px;
 }
 
 li {
-  line-height: 1.5;
+  line-height: 1.5px;
 }
 
 i {
-  margin: 0 325px;
+  margin: 0px 325px;
   display: block;
 }
 
