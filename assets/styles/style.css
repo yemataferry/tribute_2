@@ -1,48 +1,55 @@
 
-body{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin:0px;
-    font-size: 18px;
-    padding: 0;
-    border: none;
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin:0px;
+  font-size: 18px;
+  padding: 0;
+  border: none;
 }
-header{   
+
+header {   
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top:10px;
+  margin-top: 10px;
+}
+
+main {
+  background-color: rgba(236, 235, 235,0.8);
+  display: block;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /*font-size:medium;*/
     font-family: Arial, sans-serif;
-    text-align: center;
-    padding-top:10px;
-    margin-top: 10px;
 }
-main{
-    background-color: rgba(236, 235, 235,0.8);
-    display: block;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    /*font-size:medium;*/
-    font-family: Arial, sans-serif;
+
+figure {
+  text-align: center;
+  /*padding: 15px;*/
+  background-color: white;
 }
-figure{
-    text-align: center;
-    /*padding: 15px;*/
-    background-color: white;
+
+h2 {
+  text-align: center;
 }
-h2{
-    text-align: center;
-}
+
 ul {
-    margin: 0 325px;
+  margin: 0 325px;
 }
 
 li {
-    line-height: 1.5;
+  line-height: 1.5;
 }
-i{
-    /*text-align: center;*/
-    margin: 0 325px;
-    display: block;
+
+i {
+  /*text-align: center;*/
+  margin: 0 325px;
+  display: block;
 }
-footer{
-    text-align: center;
-    font-size: 20px;
+
+footer {
+  text-align: center;
+  font-size: 20px;
 }
-}
+
