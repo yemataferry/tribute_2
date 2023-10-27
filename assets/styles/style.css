@@ -1,5 +1,5 @@
 body {
-  font-family: "Arial", "Helvetica", sans-serif;
+  font-family: 'Arial', 'Helvetica', sans-serif;
   margin: 10px;
   font-size: 18px;
   padding: 0;
@@ -14,7 +14,7 @@ header {
 }
 
 main {
-  background-color: rgb(221, 221, 221);
+  background-color: gainsboro;
   display: block;
   align-items: center;
   justify-content: center;
