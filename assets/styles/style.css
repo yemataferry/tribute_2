@@ -1,14 +1,14 @@
 body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin:0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", "Geneva", "Verdana", "sans-serif";
+  margin: 0;
   font-size: 18px;
-  padding: 0px;
+  padding: 0;
 }
 
 header {
   font-family: Arial,sans-serif;
   text-align: center;
-  padding-top:10px;
+  padding-top: 10px;
   margin-top: 10px;
 }
 
@@ -31,7 +31,7 @@ h2 {
 }
 
 ul {
-  margin: 0px 325px;
+  margin: 0 325px;
 }
 
 li {
@@ -39,7 +39,7 @@ li {
 }
 
 i {
-  margin: 0px 325px;
+  margin: 0 325px;
   display: block;
 }
 
