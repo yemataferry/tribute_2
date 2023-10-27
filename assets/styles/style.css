@@ -1,5 +1,5 @@
 body {
-  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-family: "Arial", sans-serif;
   margin: 10px;
   font-size: 18px;
   padding: 0;
@@ -50,4 +50,9 @@ i {
 footer {
   text-align: center;
   font-size: 20px;
+}
+
+figcaption {
+    opacity: 0.8;
+    font-size: small;
 }
